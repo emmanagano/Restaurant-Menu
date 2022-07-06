@@ -26,10 +26,7 @@
   width: 50vw;
   padding: 1rem;
 }
-/* .food-main-container > div:nth-child(odd) {
-  border: solid 2px lightgray;
-  background-color: lightgray;
-} */
+
 .food-item-container {
   margin: 1rem;
   display: flex;
